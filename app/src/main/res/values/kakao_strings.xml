@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--추가되는 부분 시작-->
+<resources>
+    <string name="kakao_app_key">3b03863aaf04548366bf77b3541c5d2f</string>
+    <string name="kakao_scheme">kakao3b03863aaf04548366bf77b3541c5d2f</string>
+    <string name="kakaolink_host">kakaolink</string>
+</resources>
+    <!--추가되는 부분 끝-->
